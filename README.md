@@ -3,8 +3,3 @@
 
 Please find course completion screenshots attached for assignment 1 of 14848 - Cloud Infrastructure course at CMU.
 
-![plot](./Course2_congrats.png)
-
-![Alt text](Course2_congrats.png?raw=true "Title")
-
-![alt text](https://github.com/starlordvk/Cloud_Infrastructure_Assignment_1/blob/main/Course1_congrats.png?raw=true)
